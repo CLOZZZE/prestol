@@ -1,0 +1,34 @@
+
+
+biblioteca-api/
+├── src/
+│   ├── controllers/
+│   │   
+│   ├── models/
+│   │   
+│   │   
+│   │   
+│   │
+│   ├── routes/
+│   │   
+│   │   
+│   │   
+│   │
+│   ├── schemas/
+│   │   
+│   ├── services/
+│   │   
+│   │
+│   ├── middleware/
+│   │   
+│   │
+│   ├── database/
+│   │  
+│   │
+│   └── utils/
+│     
+├── tests/
+│   
+│
+├── requirements.txt
+└── README.md
